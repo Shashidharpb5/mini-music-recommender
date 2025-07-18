@@ -100,5 +100,6 @@ mini-music-recommender/
 ## 🤝 Author
 
 **Pinnamshetty Shashidhar**
+
 📧 [228r1a66b5@gmail.com](mailto:228r1a66b5@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shashidharpb5) • [GitHub](https://github.com/shashidharpb5)

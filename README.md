@@ -67,32 +67,34 @@ python recommender.py
 
 ## 📸 Sample Output
 
-   ## 📚 Using Scikit-learn-based Content Recommender
+### 🧠 Using Scikit-learn-based Content Recommender
 
 🎧 Top 3 Similar Songs to 'Tum Hi Ho':
-Agar Tum Saath Ho by Alka Yagnik (1.00)
-Dil Diyan Gallan by Atif Aslam (0.67)
-Shape of You by Ed Sheeran (0.00)
+1. Agar Tum Saath Ho by Alka Yagnik (1.00)  
+2. Dil Diyan Gallan by Atif Aslam (0.67)  
+3. Shape of You by Ed Sheeran (0.00)
 
-## Or for TensorFlow:
-   ## 🤖 Using TensorFlow-based Collaborative Recommender
+---
+
+### 🤖 Using TensorFlow-based Collaborative Recommender
 
 🎧 Top 3 recommendations for User 1:
-Song ID: 101 (Score: 0.51)
-Song ID: 105 (Score: 0.49)
-Song ID: 103 (Score: 0.48)
+1. Song ID: 101 (Score: 0.51)  
+2. Song ID: 105 (Score: 0.49)  
+3. Song ID: 103 (Score: 0.48)
 
 
 ## 📁 Folder Structure
 
 mini-music-recommender/
-├── recommender.py             # Main CLI + logic controller
-├── requirements.txt           # Project dependencies
-├── songs.csv                  # Song metadata
+│
+├── recommender.py # Main CLI + logic controller
+├── requirements.txt # Project dependencies
+├── songs.csv # Song metadata
 ├── user_song_interactions.csv # User-song interaction matrix
-├── README.md                  # Project overview
-├── .gitignore
-└── venv/                      # Virtual environment
+├── README.md # Project overview
+├── .gitignore # Git ignore rules
+└── venv/ # Virtual environment
 
 
 ## 🤝 Author
